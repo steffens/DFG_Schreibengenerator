@@ -52,6 +52,8 @@ Voraussetzungen
 
 ```
 git clone https://github.com/steffens/DFG_Schreibengenerator.git
+cd DFG_Schreibengenerator
 mvn clean
 mvn install
 ```
+... erzeugt ein Word-Dokument
