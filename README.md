@@ -43,3 +43,15 @@ Befüllen einer Vorlagen in Word mit Platzhaltern
 </ul>
 Für Listen bietet sich eine Technologie wie Jasper Reports an.
 
+<h1>Quick Start</h1>
+Voraussetzungen
+<ul>
+    <li>Java</li>
+    <li>Maven</li>
+</ul>
+
+```
+git clone https://github.com/steffens/DFG_Schreibengenerator.git
+mvn clean
+mvn install
+```
