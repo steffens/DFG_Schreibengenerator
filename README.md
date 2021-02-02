@@ -1,18 +1,21 @@
 # DFG_Schreibengenerator
 <h1>Mini-Beispiel für Schreibenerzeugung anstelle von Formschreiben</h1>
 
-Vorlage in Word mit MERGEFIELD Feldern
+Befüllen einer Vorlagen in Word mit Platzhaltern
 
 <figure>
     <img src="word_template.JPG" width="350" title="Vorlage in Word mit MERGEFIELD Feldern">
     <figcaption>Vorlage in Word mit MERGEFIELD Feldern</figcaption>
 </figure>
 
-
-Ergebnis nach Befüllen der Platzhalten
-
 <figure>
-    <img src="word_ergebnis.JPG" width="350" title="Ergebnis nach Befüllen der Platzhalten">
+    <img src="word_result.JPG" width="350" title="Ergebnis nach Befüllen der Platzhalten">
     <figcaption>Erstelltes Dokument mit befüllten Platzhalten</figcaption>
 </figure>
 
+<h1>Vorgehen</h1>
+<ul>
+    <li>Vorlagen werden direkt in Word erstellt. Die Vorlagen enthalten MERGEFIELDS.</li>
+    <li>Bei der Schreibenerstellung wählt NeuFA die richtige Vorlage aus und befüllt die Platzhalten durch gültige Werte.</li>
+    <li>Das Ergebnisdokument wird im DMS abgelegt.</li>
+</ul>
