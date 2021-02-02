@@ -56,4 +56,4 @@ cd DFG_Schreibengenerator
 mvn clean
 mvn install
 ```
-... erzeugt ein Word-Dokument
+... erzeugt ein Word-Dokument <em>Evaluation_Form_for_Cruise_Proposals_Ergebnis.docx</em>
