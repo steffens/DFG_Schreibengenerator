@@ -21,14 +21,14 @@ Befüllen einer Vorlagen in Word mit Platzhaltern
     <li>Dokumenttyp wird durch das System gesetzt.</li>
 </ul>
 
-<h1>Techonlogie</hi>
+<h1>Techonlogie</h1>
 <ul>
     <li>Standard Microsoft Word</li>
     <li>https://docx4java.org</li>
     <li>Standard Java inkl. XML Parser</li>
 </ul>
 
-<h1>Vorteile</hi>
+<h1>Vorteile</h1>
 <ul>
     <li>Word-Vorlagen können quasi von jedem erstellt werden.</li>
     <li>Entwicklung kann durch jeden Java-Entwickler erfolgen.</li>
@@ -36,7 +36,7 @@ Befüllen einer Vorlagen in Word mit Platzhaltern
 </ul>
 
 
-<h1>Nachteile</hi>
+<h1>Nachteile</h1>
 <ul>
     <li>Aufwand wird in die Entwicklung NeuFA verlagert - nicht mehr Formschreiben-Team.</li>
     <li>Wahrscheinlich nicht geeignet für große Reports bzw. Listen.</li>
