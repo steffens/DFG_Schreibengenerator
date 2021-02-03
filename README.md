@@ -61,7 +61,7 @@ mvn install
 
 
 
-<h1>MKomponenten</h1>
+<h1>Komponenten</h1>
 
 <figure>
     <img src="img/component_diagram.JPG" width="350" title="Integration">
