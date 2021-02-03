@@ -1,4 +1,8 @@
 # DFG_Schreibengenerator
+img {
+  border: 5px solid #555;
+}
+
 <h1>Mini-Beispiel für Schreibenerzeugung anstelle von Formschreiben</h1>
 
 Befüllen einer Vorlagen in Word mit Platzhaltern
