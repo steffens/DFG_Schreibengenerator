@@ -5,12 +5,12 @@
 Befüllen einer Vorlagen in Word mit Platzhaltern
 
 <figure>
-    <img src="word_template.JPG" width="350" title="Vorlage in Word mit MERGEFIELD Feldern">
+    <img src="img/word_template.JPG" width="350" title="Vorlage in Word mit MERGEFIELD Feldern">
     <figcaption>Vorlage in Word mit MERGEFIELD Feldern</figcaption>
 </figure>
 
 <figure>
-    <img src="word_result.JPG" width="350" title="Ergebnis nach Befüllen der Platzhalten">
+    <img src="img/word_result.JPG" width="350" title="Ergebnis nach Befüllen der Platzhalten">
     <figcaption>Erstelltes Dokument mit befüllten Platzhalten</figcaption>
 </figure>
 
