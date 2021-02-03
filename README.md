@@ -58,3 +58,12 @@ mvn clean
 mvn install
 ```
 ... erzeugt ein Word-Dokument <em>Evaluation_Form_for_Cruise_Proposals_Ergebnis.docx</em>
+
+
+
+<h1>MKomponenten</h1>
+
+<figure>
+    <img src="img/component_diagram.JPG" width="350" title="Integration">
+    <figcaption>Schreibengenerierung wird über einen Dienst zur Verfügung gestellt</figcaption>
+</figure>
